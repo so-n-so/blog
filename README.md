@@ -1,4 +1,4 @@
-# [Creator's Blog: Hugo Theme](https://github.com/HugoBlox/theme-blog)
+# [Welcome to the Alfa Farm)
 
 [![Screenshot](./.github/preview.png)](https://hugoblox.com/templates/)
 
