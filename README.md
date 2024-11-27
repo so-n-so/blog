@@ -1,4 +1,4 @@
-# [Welcome to the Alfa Farm)
+# Welcome to the Alfa Farm
 
 [![Screenshot](./.github/preview.png)](https://hugoblox.com/templates/)
 
